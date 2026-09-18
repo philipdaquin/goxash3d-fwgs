@@ -2,7 +2,7 @@ package goxash3d_fwgs
 
 import (
 	"fmt"
-	"github.com/yohimik/goxash3d-fwgs/pkg/platform"
+	"github.com/philipdaquin/goxash3d-fwgs/pkg/platform"
 	"strconv"
 	"strings"
 )
